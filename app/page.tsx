@@ -6,6 +6,7 @@ import { Navigation } from "@/components/navigation"
 import { HeroSection } from "@/components/hero-section"
 import { UploadSection } from "@/components/upload-section"
 import { DetectionResults } from "@/components/detection-results"
+import { LiveCallDetection } from "@/components/live-call-detection"
 import { DashboardSection } from "@/components/dashboard-section"
 import { AboutSection } from "@/components/about-section"
 import { Footer } from "@/components/footer"
@@ -82,6 +83,7 @@ export default function Home() {
         </AnimatePresence>
       </div>
 
+      <LiveCallDetection />
       <DashboardSection />
       <AboutSection />
       <Footer />
