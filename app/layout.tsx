@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'DeepGuard AI - Deepfake Detection System',
+  title: 'FakeShield - Deepfake Detection System',
   description: 'AI-Powered Deepfake Voice, Image & Video Detection System. Protect yourself from manipulated media with advanced AI analysis.',
   generator: 'v0.app',
   icons: {

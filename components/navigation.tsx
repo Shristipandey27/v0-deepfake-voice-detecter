@@ -33,8 +33,8 @@ export function Navigation() {
               <Shield className="relative h-8 w-8 text-primary" />
             </div>
             <span className="font-bold text-xl tracking-tight">
-              <span className="text-primary">Deep</span>
-              <span className="text-foreground">Guard</span>
+              <span className="text-primary">Fake</span>
+              <span className="text-foreground">Shield</span>
             </span>
           </Link>
 
